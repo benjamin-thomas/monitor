@@ -1,0 +1,3 @@
+WIP implementing a system monitoring agent (mem, cpu, disk, etc.)
+
+I'm prototyping this in golang and ruby for the moment.
